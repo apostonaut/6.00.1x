@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/webapps/first-pycharm-project/.idea/first-pycharm-project.iml" filepath="$USER_HOME$/webapps/first-pycharm-project/.idea/first-pycharm-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Past courses/csc148 summer2016/Labs/lab2/.idea/lab2.iml" filepath="$PROJECT_DIR$/../../Past courses/csc148 summer2016/Labs/lab2/.idea/lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/problem_sets.iml" filepath="$PROJECT_DIR$/.idea/problem_sets.iml" />
+    </modules>
+  </component>
+</project>
